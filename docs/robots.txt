@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://undaunted-record.github.io/Dart-Signal-Rader/sitemap.xml
+Sitemap: https://gongsiradar.co.kr/sitemap.xml
